@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/botfilters/mmautofilterv1bot">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -58,6 +58,8 @@ OR
 * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
 * ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+
+*->__Your CHANNEL ID And GROUP ID From [Telegram] from your channel and group
 
 * ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
 
